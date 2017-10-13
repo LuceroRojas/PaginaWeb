@@ -1,0 +1,35 @@
+@font-face {
+	font-family: 'Oxygen-Bold';
+	src: url('../fonts/Oxygen/Oxygen-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Oxygen-Light';
+	src: url('../fonts/Oxygen/Oxygen-Light.ttf') format('truetype');
+}
+
+
+@font-face {
+	font-family: 'Oxygen-Regular';
+	src: url('../fonts/Oxygen/Oxygen-Regular.ttf') format('truetype');
+}
+
+.font-oxygen-regular{
+	font-family: 'Oxygen-Regular';
+}
+
+.font-oxygen-Bold{
+	font-family: 'Oxygen-Bold';
+}
+
+.font-oxygen-light{
+	font-family: 'Oxygen-light';
+}
+
+.color-black{
+	color: #0E0E0E;
+}
+.message_welcome{
+	font-family: 'Oxygen-Bold';
+	color: #EEE;
+}
